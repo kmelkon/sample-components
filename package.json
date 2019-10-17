@@ -4,5 +4,19 @@
   "description": "A component library to kickstart small projects",
   "main": "index.js",
   "author": "Karam Malkon",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.10.2",
+    "styled-components": "^4.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "url-loader": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
 }
