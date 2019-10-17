@@ -1,0 +1,8 @@
+{
+  "name": "sample-components",
+  "version": "1.0.0",
+  "description": "A component library to kickstart small projects",
+  "main": "index.js",
+  "author": "Karam Malkon",
+  "license": "MIT"
+}
